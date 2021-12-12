@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">room</string>
+    <string name="request_all_fail">请求失败</string>
+</resources>
